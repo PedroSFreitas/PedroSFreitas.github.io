@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My thoughts on Bug Bounty"
+title:  "Bug Bounty: my initial thoughts"
 date:   2020-02-08 17:06:00 -0300
 ---
 
