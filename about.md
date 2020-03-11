@@ -13,23 +13,16 @@ Force (Military Police - BINFAE RJ III COMAR).
 In love with Penetration Testing, Red Teaming, IT/Cyber Security, 
 Reverse Engineering, Low-level (metal) & Embedded Development, Malware Analysis,
 GNU/Linux and anything in between. Highly engaged in Open Source projects and 
-CTFs (Capture The Flag).
+CTFs (Capture The Flag). Currently (February, 2020) trying Bug Bounty to improve
+my technical skills.
 
-Here you will find my thoughts and rants about Penetration Testing, GNU/Linux,
-Low-level/Kernel Development, Exploits and more.
-
-My interests are, but not limited to:
-- External/Web Penetration Testing
-- Red Team Operations
+My interests (not limited to):
+- External and Internal Network Penetration testing
+- Web/API Penetration Testing
+- Red Team Operations/Threat Emulation
 - Reverse Engineering
 - Low-level (metal) & Embedded Development
 - Malware Analysis
 - GNU/Linux
-- C
-- Assembly Language (AVR, ARM, x86)
-- Python
-- Shell Scripting
+- C, Python, Shell Script (bash/sh), Assembly Language (AVR, ARM, x86)
 
-### Contact
-
-You can contact me through the information provided in the footer. I am always open to hear about new challenges. 
