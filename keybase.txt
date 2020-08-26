@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/psf_
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pedrosfreitas.github.io
+  * I am psf_ (https://keybase.io/psf_) on keybase.
+  * I have a public key ASBFxja7EawrtPqGLK2hPc5QbNJp827v2hIcJiTDYUeMAwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018108be3d8e166f962c0842932ca40144196772218110d80a865e94f5e952625a0a",
+      "host": "keybase.io",
+      "kid": "012045c636bb11ac2bb4fa862cada13dce506cd269f36eefda121c2624c361478c030a",
+      "uid": "a865e4d20444685b4ddf40c48553b519",
+      "username": "psf_"
+    },
+    "merkle_root": {
+      "ctime": 1598468102,
+      "hash": "27be5ccf44c5a28d67610615f053de76436ece61284e5334501f07cf880f0781137345c79ffb545cd253b0b4cff1065717a88326f03f8656fda69cfdde1e5fb5",
+      "hash_meta": "54a66fba27e755be21c0648eb345694a6a84306df89f3987516318b1cefe844f",
+      "seqno": 17389784
+    },
+    "service": {
+      "entropy": "EvmyIMIgLFRiQaHKM1+SDgUv",
+      "hostname": "pedrosfreitas.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1598468168,
+  "expire_in": 504576000,
+  "prev": "ec7324c3180141853712587263290418cc4fd00718b04f0a31ef590c1cfc6160",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRcY2uxGsK7T6hiytoT3OUGzSafNu79oSHCYkw2FHjAMKp3BheWxvYWTESpcCBsQg7HMkwxgBQYU3ElhyYykEGMxP0AcYsE8KMe9ZDBz8YWDEIBuFB+IUJ6dYC//LIIOedcjCC8GAcnxeswmeYo3jmEhYAgHCo3NpZ8RAI4dlOqWeVaIt+RNOjZwZIauZowBCPqs60zV0o7v/S9rozrvS0sJ/xzAXGA/Ad3H8q70wT1uevK52GG6N70MZBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM2PXy2tlQYuIPuPT2OtYT0tMqCbDQ0f8kfxGHD/+Kito3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/psf_
+
+==================================================================
